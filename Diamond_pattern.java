@@ -45,6 +45,7 @@ public class Diamond_pattern {
             }
             System.out.println();
         }
+
     }
     
 }

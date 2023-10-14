@@ -38,6 +38,7 @@ public class pascal_Triangle {
             System.out.println();
             
         }
+        sc.close();
         
     }
 }

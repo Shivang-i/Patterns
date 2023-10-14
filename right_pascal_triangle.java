@@ -76,6 +76,7 @@ public class right_pascal_triangle {
             }
         }
 
+        sc.close();
 
 
 
